@@ -10,3 +10,11 @@ author:
   name: "Heidi Muurikainen"
   avatar: "/assets/images/heidi1.png"
   bio: "heippispeippis"
+  location: "Helsinki, Suomi"
+  links:
+    - label: "GitHub"
+      icon: "fab fa-github"
+      url: "https://github.com/heimuru"
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://www.linkedin.com/in/heidi-muurikainen"
