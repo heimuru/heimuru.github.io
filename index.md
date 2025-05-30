@@ -1,6 +1,6 @@
 ---
 layout: home
-title: under consturction
+title: in progress
 ---
 
 sit tight
