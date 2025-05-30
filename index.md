@@ -1,8 +1,7 @@
 ---
 layout: home
 author_profile: true
-title: in progress
+title: Heidi Muurikainen
 ---
 
-projects will be added later
 
