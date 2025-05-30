@@ -1,6 +1,7 @@
 ---
 layout: single
 title: "Projects"
+permalink: /projects/
 categories:
   - hack-the-box
 ---
