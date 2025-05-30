@@ -1,7 +1,7 @@
 ---
 layout: home
 author_profile: true
-title: Heidi Muurikainen
+title: 
 ---
 
-
+30.5.2025: site in progress :v:
