@@ -1,0 +1,7 @@
+main:
+  - title: "home"
+    url: "/"
+  - title: "projects"
+    url: "/projektit/"
+  - title: "contact"
+    url: "/contact/"
