@@ -2,6 +2,6 @@ main:
   - title: "home"
     url: "/"
   - title: "projects"
-    url: "/projects/"
+    url: "_pages/projects/"
   - title: "contact"
     url: "/contact/"
