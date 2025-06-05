@@ -1,0 +1,28 @@
+title: heimuru
+description: in progressss
+url: "https://heimuru.github.io"
+remote_theme: "mmistakes/minimal-mistakes@4.27.1"
+plugins:
+  - jekyll-remote-theme
+  - jekyll-include-cache
+  - jemoji
+
+minimal_mistakes_skin: "neon"
+
+author:
+  name: "Heidi Muurikainen"
+  avatar: "/assets/images/heidi1.png"
+  bio: "Not all those who wander are lost."
+  location: "Finland"
+  links:
+    - label: "GitHub"
+      icon: "fab fa-github"
+      url: "https://github.com/heimuru"
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://www.linkedin.com/in/heidi-muurikainen"
+
+collections:
+  pages:
+    output: true
+    permalink: /:collection/:path/
